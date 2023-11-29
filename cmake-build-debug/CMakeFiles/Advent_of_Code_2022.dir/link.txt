@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Advent_of_Code_2022.dir/main.cpp.o  -o Advent_of_Code_2022 
